@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Vaishnavi Swami
-[I'm an inline-style link](https://www.google.com)
+
 Profile:
 !["C:\Users\TSP - Vaishnavi\Downloads\profile.jpg"]
  
